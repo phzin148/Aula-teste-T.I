@@ -206,7 +206,7 @@ h3 {
   button:hover {
     height: 4vw;
     width: 8vw;
-    border-radius: 10px;
+    border-radius: 100%;
     background-color: red;
     color: white;
   }
